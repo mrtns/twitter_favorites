@@ -1,1 +1,5 @@
 data/
+
+# tooling
+.twarc.log
+.idea/
