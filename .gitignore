@@ -1,11 +1,11 @@
 # ephemeral data
-data/work/output/
-data/work/config/
+data/jupyter/output/
+data/jupyter/config/
 
 # tooling
 
 ## jupyter
-data/work/.ipynb_checkpoints/
+data/jupyter/.ipynb_checkpoints/
 
 ## IDEs
 .idea/
