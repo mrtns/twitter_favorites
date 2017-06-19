@@ -1,5 +1,11 @@
-data/
+# ephemeral data
+data/work/output/
+data/work/config/
 
 # tooling
-.twarc.log
+
+## jupyter
+data/work/.ipynb_checkpoints/
+
+## IDEs
 .idea/
