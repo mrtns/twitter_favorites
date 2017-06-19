@@ -2,13 +2,39 @@
 
 Archive all favorites/likes from your Twitter account.
 
+Implemented with an experimental pattern using a Dockerized Jupyter Notebook based data pipeline.
+
+
 # Dependencies
+
+## Environment
 
 ```bash
 make check-dependencies
 ```
 
+## Configuration
+
+### Twitter (OAuth) Application
+
+TODO
+
+### `t` Configuration File
+
+TODO
+
+```bash
+t configure
+```
+
+# Pipeline
+
+1. [TweetFavorited_SummaryWithDecodedUrls](data/jupyter/TweetFavorited_SummaryWithDecodedUrls.ipynb)
+1. TODO
+
 # Running
+
+## Jupyter
 
 ```bash
 make run
