@@ -32,6 +32,13 @@ t configure
 1. [TweetFavorited_SummaryWithDecodedUrls](data/jupyter/TweetFavorited_SummaryWithDecodedUrls.ipynb)
 1. TODO
 
+Next steps:
+```bash
+csvjson data/favorites_with_decoded_uris.csv > data/favorites_with_decoded_uris.json
+jq '.[] | .ID' data/favorites_with_decoded_uris.json
+https://github.com/DocNow/twarc
+```
+
 # Running
 
 ## Jupyter
