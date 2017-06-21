@@ -2,7 +2,13 @@
 
 Export all favorites/likes from your Twitter account, and analyze them.
 
-Implemented with an experimental pattern using a Dockerized Jupyter Notebook based data pipeline.
+# Implementation Notes
+
+* Experimenting with building a data pipeline via a series of Dockerized Jupyter notebooks
+
+Next steps:
+
+* Make assertion verification executable; change assertions to use bats or python unit tests
 
 
 # Dependencies
