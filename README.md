@@ -37,10 +37,11 @@ t configure
 
 1. [TweetFavorited_SummaryWithDecodedUrls](data/jupyter/TweetFavorited_SummaryWithDecodedUrls.ipynb)
 1. [TweetFavorited_RawTweetObject](data/jupyter/TweetFavorited_RawTweetObject.ipynb)
+1. TODO
 
 Next steps:
 
-1. Analyze!
+1. Build analysis steps
 
 # Running
 
