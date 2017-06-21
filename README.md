@@ -30,14 +30,11 @@ t configure
 # Pipeline
 
 1. [TweetFavorited_SummaryWithDecodedUrls](data/jupyter/TweetFavorited_SummaryWithDecodedUrls.ipynb)
-1. TODO
+1. [TweetFavorited_RawTweetObject](data/jupyter/TweetFavorited_RawTweetObject.ipynb)
 
 Next steps:
-```bash
-csvjson data/favorites_with_decoded_uris.csv > data/favorites_with_decoded_uris.json
-jq '.[] | .ID' data/favorites_with_decoded_uris.json
-https://github.com/DocNow/twarc
-```
+
+1. Analyze!
 
 # Running
 
