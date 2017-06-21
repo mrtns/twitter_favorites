@@ -1,6 +1,6 @@
 # twitter_favorites
 
-Archive all favorites/likes from your Twitter account.
+Export all favorites/likes from your Twitter account, and analyze them.
 
 Implemented with an experimental pattern using a Dockerized Jupyter Notebook based data pipeline.
 
